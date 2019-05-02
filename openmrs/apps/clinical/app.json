@@ -24,7 +24,6 @@
     ],
     "config": {
         "hideConditions": false,
-        "enableRadiologyOrderOptions":["Urgent","NeedsPrint"],
         "enableLabOrderOptions":["Urgent", "NeedsPrint"],
         "quickPrints":false,
         "networkConnectivity" : {
@@ -72,9 +71,7 @@
             "Patient file"
         ],
         "otherInvestigationsMap": {
-            "Radiology": "Radiology Order",
-            "Endoscopy": "Endoscopy Order"
-        },
+                    },
         "allowConsultationWhenNoOpenVisit": false,
         "defaultVisitType": "OPD",
         "visitTypeForRetrospectiveEntries": "Special OPD",
