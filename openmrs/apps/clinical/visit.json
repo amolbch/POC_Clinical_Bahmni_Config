@@ -91,9 +91,7 @@
                 "config": {
                     "conceptNames": [
                         "History and Examination Notes",
-                        "Discharge Summary",
                         "Lab Investigation Notes",
-                        "Radiology Notes",
                         "Other Notes"
                     ],
                     "scope": "latest",

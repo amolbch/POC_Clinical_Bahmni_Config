@@ -57,11 +57,10 @@
             		"Stage"
         		],
         		"personAttributes": [
-            		"class",
-            		"caste"
+            		
         		],
         		"additionalPatientIdentifiers": [
-           			"National ID"
+           			
        		],
         		"preferredIdentifier": "Id_Number"
     	},
